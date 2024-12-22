@@ -17,7 +17,7 @@ The main components implemented in this project are:
 
 ## Architecture Illustration
 
-![Transformer Architecture](https://www.google.com/imgres?q=transformers%20architecture%20deep%20learning&imgurl=https%3A%2F%2Fmachinelearningmastery.com%2Fwp-content%2Fuploads%2F2021%2F08%2Fattention_research_1.png&imgrefurl=https%3A%2F%2Fmachinelearningmastery.com%2Fthe-transformer-model%2F&docid=8BFEFEH368UfNM&tbnid=vX3-oFwpHiwA2M&vet=12ahUKEwifgJSpxLuKAxUSU0EAHXG3IMQQM3oECBYQAA..i&w=1320&h=1860&hcb=2&ved=2ahUKEwifgJSpxLuKAxUSU0EAHXG3IMQQM3oECBYQAA))
+![Transformer Architecture](https://upload.wikimedia.org/wikipedia/commons/1/10/Transformer.png)
 
 The image above illustrates the full Transformer architecture as described in the paper *"Attention is All You Need"*.
 
