@@ -17,7 +17,7 @@ The main components implemented in this project are:
 
 ## Architecture Illustration
 
-![Transformer Architecture](https://upload.wikimedia.org/wikipedia/commons/1/10/Transformer.png)
+![Transformer Architecture](attention_research_1.png)
 
 The image above illustrates the full Transformer architecture as described in the paper *"Attention is All You Need"*.
 
