@@ -11,10 +11,6 @@ The main components implemented in this project are:
 - **Encoder**: Encoding block comprising attention, feed-forward layers, and residual connections.
 - **Decoder**: Decoding block similar to the encoder with an additional attention mechanism over the encoder's output.
 
-## Repository Structure
-
-- `notebooks/`: Contains Jupyter notebooks for each implemented component.
-
 ## Architecture Illustration
 
 ![Transformer Architecture](attention_research_1.png)
